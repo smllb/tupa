@@ -1,4 +1,4 @@
 # Tupã
 Choc Split Handwired Wireless Keyboard 
 
-![1](images/2026-07-06_16-08.png)
+<img src="images/2026-07-06_16-08.png" width="400" alt="1">
