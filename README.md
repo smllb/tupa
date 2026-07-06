@@ -15,3 +15,5 @@ Choc Split Handwired Wireless Keyboard
 | 2 | 350mAh Li-Ion batteries | 3.7V | |
 | 2 | JST connectors | Male/female, for battery connection | |
 | 1 | PLA case | 3D printed | See `stl/` |
+
+The MCU will snap in place, no need for screws. 
